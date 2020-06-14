@@ -1,0 +1,13 @@
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.exe
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.deps.json
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.runtimeconfig.json
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.runtimeconfig.dev.json
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.dll
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.pdb
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.csprojAssemblyReference.cache
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.csproj.CoreCompileInputs.cache
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.AssemblyInfoInputs.cache
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.AssemblyInfo.cs
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.dll
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.pdb
+D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.genruntimeconfig.cache
