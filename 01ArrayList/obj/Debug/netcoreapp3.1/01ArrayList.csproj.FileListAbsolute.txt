@@ -11,3 +11,16 @@ D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01A
 D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.dll
 D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.pdb
 D:\Program Files\Git\desktop\test\SuanFa\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.genruntimeconfig.cache
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.exe
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.deps.json
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.runtimeconfig.json
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.runtimeconfig.dev.json
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.dll
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\bin\Debug\netcoreapp3.1\01ArrayList.pdb
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.csprojAssemblyReference.cache
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.AssemblyInfoInputs.cache
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.AssemblyInfo.cs
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.csproj.CoreCompileInputs.cache
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.dll
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.pdb
+E:\User_Projects\MySelf\Algorithm-basic\01ArrayList\obj\Debug\netcoreapp3.1\01ArrayList.genruntimeconfig.cache
