@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "h0Kw2QyWGiALKJzt9IJZsWrWXncSBlFDORe9YQrQTol3+KjybuXzGm3bym+Pu3zhdbgyLST+aUk/BrW61Aka5w==",
+  "dgSpecHash": "vTiMfI84dBYXwwoexBC5SCjjAELktdCQyQDPVtBiVp3fRxG50HMzw41ZafWdoaPHQ4eKb0Old7Kx39kjBrJ+Ww==",
   "success": true,
-  "projectFilePath": "D:\\Program Files\\Git\\desktop\\test\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

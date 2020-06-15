@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files\\Git\\desktop\\test\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
+      "projectUniqueName": "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
       "projectName": "01ArrayList",
-      "projectPath": "D:\\Program Files\\Git\\desktop\\test\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
+      "projectPath": "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Files\\Git\\desktop\\test\\Algorithm-basic\\01ArrayList\\obj\\",
+      "outputPath": "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,12 +53,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
       }
     }
   }
