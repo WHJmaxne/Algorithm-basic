@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\pro\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj": {}
   },
   "projects": {
-    "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\pro\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\pro\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
         "projectName": "01ArrayList",
-        "projectPath": "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\pro\\Algorithm-basic\\01ArrayList\\01ArrayList.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\User_Projects\\MySelf\\Algorithm-basic\\01ArrayList\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\pro\\Algorithm-basic\\01ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,22 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
